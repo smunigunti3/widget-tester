@@ -41,6 +41,11 @@
                 "systemMedium"
               ]
             }
+          ],
+          "liveActivities": [
+            {
+              "name": "MyActivity"
+            }
           ]
         }
       ]
