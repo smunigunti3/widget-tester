@@ -44,7 +44,8 @@
           ],
           "liveActivities": [
             {
-              "name": "MyActivity"
+              "name": "MyActivity",
+              "assets": ["./assets"]
             }
           ]
         }
